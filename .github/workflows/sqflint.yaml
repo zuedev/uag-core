@@ -1,4 +1,4 @@
-name: arma
+name: sqflint
 
 on:
   push:
