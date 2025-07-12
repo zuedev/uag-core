@@ -1,4 +1,4 @@
-name: sqflint
+name: arma
 
 on:
   push:
@@ -8,10 +8,18 @@ on:
   workflow_dispatch: ~
 
 jobs:
-  test-sqflint:
+  sqflint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
       - uses: arma-actions/sqflint@v1.0
         with:
           args: --file addons/cba_settings_userconfig/cba_settings.sqf
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: arma-actions/hemtt@v1
+        name: Setup HEMTT
+      - name: Build
+        run: hemtt build
