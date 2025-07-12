@@ -13,3 +13,5 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - uses: arma-actions/sqflint@v1.0
+        with:
+          args: --file addons/cba_settings_userconfig/cba_settings.sqf
