@@ -73,7 +73,6 @@ force ace_explosives_requireSpecialist = true;
 // ACE Field Rations
 force acex_field_rations_affectAdvancedFatigue = true;
 force acex_field_rations_enabled = false;
-force acex_field_rations_hudShowLevel = 70;
 force acex_field_rations_hungerSatiated = 1;
 force acex_field_rations_terrainObjectActions = true;
 force acex_field_rations_thirstQuenched = 1;
