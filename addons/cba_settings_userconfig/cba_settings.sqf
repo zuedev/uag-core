@@ -138,6 +138,7 @@ force ace_rearm_distance = 20;
 force ace_rearm_enabled = true;
 force ace_rearm_level = 2;
 force ace_rearm_supply = 1;
+force ace_refuel_enabled = true;
 force ace_refuel_cargoRate = 10;
 force ace_refuel_hoseLength = 12;
 force ace_refuel_progressDuration = 5;
