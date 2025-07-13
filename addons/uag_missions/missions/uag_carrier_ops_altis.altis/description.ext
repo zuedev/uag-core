@@ -1,9 +1,18 @@
-author = "$STR_UAG_MissionAuthor";
-onLoadName = "$STR_UAG_MissionName";
-onLoadMission = "$STR_UAG_MissionDescription";
-loading = "$STR_UAG_MissionImagePath";
-overviewPicture = "$STR_UAG_MissionImagePath";
-overviewText = "$STR_UAG_MissionDescription";
+// name your mission
+onLoadName = "UAG Carrier Ops: Altis";
+
+// description of your mission (both in the lobby and in the briefing)
+onLoadMission = "UAG Carrier 'Freedom' enters the region.";
+overviewText = "UAG Carrier 'Freedom' enters the region.";
+
+// put your name here
+author = "UAG Code Monkeys";
+
+// you probably don't want to edit anything below this line
+// ------------------------------------------------------------
+
+loading = "image.jpg";
+overviewPicture = "image.jpg";
 
 class Header {
 	gameType = "Sandbox";
