@@ -80,6 +80,7 @@ force acex_field_rations_thirstQuenched = 1;
 force acex_field_rations_timeWithoutFood = 2;
 force acex_field_rations_timeWithoutWater = 2;
 force acex_field_rations_waterSourceActions = 2;
+force acex_field_rations_depletedConsequence = 0;
 
 // ACE Fire
 force ace_fire_dropWeapon = 2;
