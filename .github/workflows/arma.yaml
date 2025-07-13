@@ -12,7 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      - uses: arma-actions/sqflint@v1.0
+      - name: check cba_settings.sqf
+        uses: arma-actions/sqflint@v1.0
         with:
           args: addons/cba_settings_userconfig/cba_settings.sqf
   build:
