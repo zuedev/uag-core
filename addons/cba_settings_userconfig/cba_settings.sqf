@@ -22,9 +22,7 @@ force ace_ai_assignNVG = true;
 
 // ACE Artillery
 force ace_artillerytables_advancedCorrections = true;
-force ace_artillerytables_disableArtilleryComputer = false;
 force ace_mk6mortar_airResistanceEnabled = true;
-force ace_mk6mortar_allowCompass = true;
 force ace_mk6mortar_allowComputerRangefinder = false;
 force ace_mk6mortar_useAmmoHandling = true;
 
