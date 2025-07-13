@@ -64,8 +64,8 @@ force ace_dragging_skipContainerWeight = false;
 force ace_dragging_weightCoefficient = 1;
 
 // ACE Explosives
-force ace_explosives_customTimerMax = 600;
-force ace_explosives_customTimerMin = 1;
+force ace_explosives_customTimerMax = 3600;
+force ace_explosives_customTimerMin = 10;
 force ace_explosives_explodeOnDefuse = false;
 force ace_explosives_punishNonSpecialists = true;
 force ace_explosives_requireSpecialist = true;
