@@ -13,14 +13,6 @@ force ace_advanced_fatigue_performanceFactor = 2;
 force ace_advanced_fatigue_recoveryFactor = 2;
 force ace_advanced_fatigue_terrainGradientFactor = 1;
 
-// ACE Advanced Throwing
-force ace_advanced_throwing_enabled = true;
-force ace_advanced_throwing_enablePickUp = true;
-force ace_advanced_throwing_enablePickUpAttached = true;
-force ace_advanced_throwing_enableTempWindInfo = true;
-force ace_advanced_throwing_showMouseControls = true;
-force ace_advanced_throwing_showThrowArc = true;
-
 // ACE Advanced Vehicle Damage
 force ace_vehicle_damage_enableCarDamage = true;
 force ace_vehicle_damage_enabled = true;
