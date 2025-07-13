@@ -123,6 +123,7 @@ force ace_hearing_autoAddEarplugsToUnits = 0;
 // ACE Interaction
 force ace_interaction_disableNegativeRating = true;
 force ace_interaction_interactWithTerrainObjects = false;
+force ace_interaction_interactWithEnemyCrew = 0;
 
 // ACE Kill Tracker
 force ace_killtracker_trackAI = true;
