@@ -32,10 +32,10 @@ force ace_captives_requireSurrender = 1;
 force ace_captives_requireSurrenderAi = false;
 
 // ACE Common
-force ace_common_allowFadeMusic = false;
 force force ace_common_checkPBOsAction = 2;
 force force ace_common_checkPBOsCheckAll = true;
 force force ace_common_checkPBOsWhitelist = "[]";
+force force ace_common_checkExtensions = true;
 force ace_common_deployedSwayFactor = 1;
 force ace_common_enableSway = true;
 force ace_common_restedSwayFactor = 1;
