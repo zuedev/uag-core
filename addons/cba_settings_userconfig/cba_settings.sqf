@@ -176,6 +176,9 @@ force ace_map_gestures_onlyShowFriendlys = false;
 force ace_map_gestures_allowSpectator = true;
 force ace_map_gestures_allowCurator = true;
 
+// ACE Map Tools
+force ace_maptools_plottingBoardAllowChannelDrawing = 1;
+
 // ACE Medical
 force ace_medical_ai_enabledFor = 2;
 force ace_medical_ai_requireItems = 0;
