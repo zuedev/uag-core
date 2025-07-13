@@ -20,11 +20,6 @@ force ace_vehicle_damage_enabled = true;
 // ACE AI
 force ace_ai_assignNVG = true;
 
-// ACE Arsenal
-force ace_arsenal_allowDefaultLoadouts = true;
-force ace_arsenal_allowSharedLoadouts = true;
-force ace_arsenal_enableIdentityTabs = true;
-
 // ACE Artillery
 force ace_artillerytables_advancedCorrections = true;
 force ace_artillerytables_disableArtilleryComputer = false;
