@@ -173,6 +173,8 @@ force ace_map_gestures_interval = 0.03;
 force ace_map_gestures_maxRange = 7;
 force ace_map_gestures_maxRangeCamera = 14;
 force ace_map_gestures_onlyShowFriendlys = false;
+force ace_map_gestures_allowSpectator = true;
+force ace_map_gestures_allowCurator = true;
 
 // ACE Medical
 force ace_medical_ai_enabledFor = 2;
