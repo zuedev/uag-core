@@ -164,6 +164,7 @@ force ace_map_mapShowCursorCoordinates = false;
 force ace_markers_moveRestriction = 0;
 force ace_markers_timestampTimezone = 0;
 force ace_markers_timestampUTCOffset = 0;
+force ace_markers_timestampUTCMinutesOffset = 0;
 
 // ACE Map Gestures
 force ace_map_gestures_briefingMode = 0;
