@@ -27,7 +27,6 @@ force ace_mk6mortar_allowComputerRangefinder = false;
 force ace_mk6mortar_useAmmoHandling = true;
 
 // ACE Captives
-force ace_captives_allowHandcuffOwnSide = true;
 force ace_captives_allowSurrender = true;
 force ace_captives_requireSurrender = 1;
 force ace_captives_requireSurrenderAi = false;
