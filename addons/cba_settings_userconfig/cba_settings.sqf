@@ -18,7 +18,7 @@ force ace_vehicle_damage_enableCarDamage = true;
 force ace_vehicle_damage_enabled = true;
 
 // ACE AI
-force ace_ai_assignNVG = false;
+force ace_ai_assignNVG = true;
 
 // ACE Arsenal
 force ace_arsenal_allowDefaultLoadouts = true;
