@@ -132,7 +132,6 @@ force ace_killtracker_trackAI = true;
 // ACE Logistics
 force ace_cargo_enable = true;
 force ace_cargo_enableDeploy = true;
-force ace_cargo_enableRename = false;
 force ace_cargo_loadTimeCoefficient = 5;
 force ace_cargo_paradropTimeCoefficent = 2.5;
 force ace_rearm_distance = 20;
