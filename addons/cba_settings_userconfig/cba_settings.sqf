@@ -162,7 +162,6 @@ force ace_map_mapLimitZoom = false;
 force ace_map_mapShake = true;
 force ace_map_mapShowCursorCoordinates = false;
 force ace_markers_moveRestriction = 0;
-force ace_markers_timestampEnabled = false;
 force ace_markers_timestampTimezone = 0;
 force ace_markers_timestampUTCOffset = 0;
 
