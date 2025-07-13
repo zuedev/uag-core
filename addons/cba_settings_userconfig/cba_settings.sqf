@@ -156,7 +156,6 @@ force ace_map_BFT_Enabled = false;
 force ace_map_BFT_HideAiGroups = true;
 force ace_map_BFT_Interval = 1;
 force ace_map_BFT_ShowPlayerNames = false;
-force ace_map_DefaultChannel = 0;
 force ace_map_mapGlow = true;
 force ace_map_mapIllumination = true;
 force ace_map_mapLimitZoom = false;
