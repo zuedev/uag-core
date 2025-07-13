@@ -47,7 +47,7 @@ jobs:
           appId: "107410" # default
           itemId: "2936923331" # Id of item to update
           contentPath: ".hemttout/@uag-core"
-          changelog: "Auto deployed by GitHub Actions"
+          changelog: "${{ github.event.head_commit.message }} (${{ github.sha }})"
         env:
           STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
           STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
