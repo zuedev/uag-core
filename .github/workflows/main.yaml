@@ -25,6 +25,7 @@ jobs:
           args: -d addons/uag_missions/missions/
   build:
     runs-on: ubuntu-latest
+    needs: sqflint
     steps:
       - uses: actions/checkout@v2
       - name: Setup HEMTT
