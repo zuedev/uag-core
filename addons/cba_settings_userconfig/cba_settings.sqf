@@ -89,10 +89,9 @@ force ace_fire_enableFlare = true;
 force ace_fire_enableScreams = true;
 
 // ACE Fortify
-force ace_fortify_markObjectsOnMap = 0;
+force ace_fortify_markObjectsOnMap = 1;
 force ace_fortify_timeCostCoefficient = 1;
 force ace_fortify_timeMin = 1.5;
-force acex_fortify_settingHint = 0;
 
 // ACE Fragmentation Simulation
 force ace_frag_enabled = true;
