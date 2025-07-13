@@ -28,7 +28,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: arma-actions/hemtt@v1
-        name: Setup HEMTT
+      - name: Setup HEMTT
+        uses: arma-actions/hemtt@v1
+        with:
+          annotate: false
       - name: Build
         run: hemtt build
+      - name: Rename build folder
+        run: mv .hemttout/build .hemttout/@uag-core
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: uag-core-${{ github.sha }}-nobin
+          path: .hemttout/@*
+          include-hidden-files: true # Because .hemttout is a hidden directory
