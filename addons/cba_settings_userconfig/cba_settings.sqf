@@ -60,7 +60,6 @@ force ace_csw_progressBarTimeCoefficent = 1;
 
 // ACE Dragging
 force ace_dragging_allowRunWithLightweight = true;
-force ace_dragging_dragAndFire = true;
 force ace_dragging_skipContainerWeight = false;
 force ace_dragging_weightCoefficient = 1;
 
