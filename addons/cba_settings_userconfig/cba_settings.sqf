@@ -16,7 +16,6 @@ force ace_advanced_fatigue_terrainGradientFactor = 1;
 // ACE Advanced Vehicle Damage
 force ace_vehicle_damage_enableCarDamage = true;
 force ace_vehicle_damage_enabled = true;
-force ace_vehicle_damage_removeAmmoDuringCookoff = true;
 
 // ACE AI
 force ace_ai_assignNVG = false;
