@@ -69,6 +69,9 @@ force ace_finger_enabled = true;
 force ace_repair_fullRepairLocation = 3;
 force ace_repair_locationsBoostTraining = true;
 
+// ACE Uncategorized
+force ace_fastroping_autoAddFRIES = true;
+
 // ACRE2
 force force acre_sys_core_ts3ChannelName = "acre";
 force force acre_sys_core_ts3ChannelPassword = "fuckyou";
