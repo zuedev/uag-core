@@ -92,3 +92,24 @@ force WBK_BurnEm_Trees = true;
 
 // Enhanced Movement Rework
 force emr_main_allowClimbOnStandingUnits = true;
+
+// QTE ACE - Cargo
+force qte_ace_cargo_enable = true;
+
+// QTE ACE - Explosives
+force qte_ace_explosives_enable = true;
+
+// QTE ACE - Magazine Repack
+force qte_ace_magazinerepack_enable = true;
+
+// QTE ACE - Medical
+force qte_ace_medical_enable = true;
+
+// QTE ACE - Overheating
+force qte_ace_overheating_enable = true;
+
+// QTE ACE - Rearm
+force qte_ace_rearm_enable = true;
+
+// QTE ACE - Repair
+force qte_ace_repair_enable = true;
