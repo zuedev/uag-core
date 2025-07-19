@@ -103,6 +103,9 @@ force qte_ace_explosives_mustBeCompleted = true;
 // QTE ACE - Magazine Repack
 force qte_ace_magazinerepack_enable = true;
 
+// QTE ACE - Main
+force qte_ace_main_addedWords = "[""hanz the terrorist"",""its always snake"",""dont listen to collin"",""unnamed arma group""]";
+
 // QTE ACE - Medical
 force qte_ace_medical_enable = true;
 
