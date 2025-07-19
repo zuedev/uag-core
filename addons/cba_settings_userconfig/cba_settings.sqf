@@ -98,6 +98,7 @@ force qte_ace_cargo_enable = true;
 
 // QTE ACE - Explosives
 force qte_ace_explosives_enable = true;
+force qte_ace_explosives_mustBeCompleted = true;
 
 // QTE ACE - Magazine Repack
 force qte_ace_magazinerepack_enable = true;
