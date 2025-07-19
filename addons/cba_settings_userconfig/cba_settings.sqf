@@ -42,7 +42,8 @@ force ace_medical_fatalDamageSource = 0;
 force ace_medical_fractureChance = 0.2;
 force ace_medical_ivFlowRate = 3;
 force ace_medical_playerDamageThreshold = 3.5;
-force ace_medical_spontaneousWakeUpChance = 1;
+force ace_medical_spontaneousWakeUpChance = 0.5;
+force ace_medical_spontaneousWakeUpEpinephrineBoost = 2;
 
 // ACRE2
 force force acre_sys_core_ts3ChannelName = "acre";
