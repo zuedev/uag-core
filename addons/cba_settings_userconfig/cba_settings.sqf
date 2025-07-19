@@ -86,4 +86,6 @@ force force acre_sys_core_ts3ChannelName = "acre";
 force force acre_sys_core_ts3ChannelPassword = "fuckyou";
 
 // Burn Em
+force WBK_BurnEm_Napalm_Trees = true;
 force WBK_BurnEm_TankExplosion = 10;
+force WBK_BurnEm_Trees = true;
