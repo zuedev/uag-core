@@ -23,6 +23,9 @@ force ace_fire_enableFlare = true;
 force ace_frag_reflectionsEnabled = true;
 force ace_frag_spallEnabled = true;
 
+// ACE G-Forces
+force ace_gforces_enabledFor = 2;
+
 // ACRE2
 force force acre_sys_core_ts3ChannelName = "acre";
 force force acre_sys_core_ts3ChannelPassword = "fuckyou";
