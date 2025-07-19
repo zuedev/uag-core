@@ -65,6 +65,9 @@ force ace_overheating_enabled = false;
 // ACE Pointing
 force ace_finger_enabled = true;
 
+// ACE Repair
+force ace_repair_locationsBoostTraining = true;
+
 // ACRE2
 force force acre_sys_core_ts3ChannelName = "acre";
 force force acre_sys_core_ts3ChannelPassword = "fuckyou";
