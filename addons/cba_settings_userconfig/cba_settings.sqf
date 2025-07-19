@@ -5,6 +5,9 @@ force ace_advanced_ballistics_enabled = true;
 force ace_vehicle_damage_enableCarDamage = true;
 force ace_vehicle_damage_enabled = true;
 
+// ACE AI
+force ace_ai_assignNVG = true;
+
 // ACRE2
 force force acre_sys_core_ts3ChannelName = "acre";
 force force acre_sys_core_ts3ChannelPassword = "fuckyou";
