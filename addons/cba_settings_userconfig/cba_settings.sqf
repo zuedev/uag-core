@@ -36,6 +36,9 @@ force ace_hearing_enableCombatDeafness = false;
 // ACE Interaction
 force ace_interaction_disableNegativeRating = true;
 
+// ACE Medical
+force ace_medical_bleedingCoefficient = 0.25;
+
 // ACRE2
 force force acre_sys_core_ts3ChannelName = "acre";
 force force acre_sys_core_ts3ChannelPassword = "fuckyou";
