@@ -51,6 +51,7 @@ force ace_medical_gui_maxDistance = 10;
 
 // ACE Medical Treatment
 force ace_medical_treatment_allowSelfPAK = 1;
+force ace_medical_treatment_allowSelfStitch = 1;
 force ace_medical_treatment_consumePAK = 1;
 force ace_medical_treatment_consumeSurgicalKit = 2;
 force ace_medical_treatment_locationPAK = 0;
