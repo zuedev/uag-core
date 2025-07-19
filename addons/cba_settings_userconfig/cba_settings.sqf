@@ -46,6 +46,9 @@ force ace_medical_spontaneousWakeUpChance = 0.5;
 force ace_medical_spontaneousWakeUpEpinephrineBoost = 2;
 force ace_medical_statemachine_fatalInjuriesPlayer = 2;
 
+// ACE Medical Interface
+force ace_medical_gui_maxDistance = 10;
+
 // ACRE2
 force force acre_sys_core_ts3ChannelName = "acre";
 force force acre_sys_core_ts3ChannelPassword = "fuckyou";
