@@ -13,6 +13,9 @@ force ace_common_checkExtensions = true;
 force ace_common_checkPBOsAction = 2;
 force ace_common_checkPBOsCheckAll = true;
 
+// ACE Explosives
+force ace_explosives_explodeOnDefuse = false;
+
 // ACRE2
 force force acre_sys_core_ts3ChannelName = "acre";
 force force acre_sys_core_ts3ChannelPassword = "fuckyou";
