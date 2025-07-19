@@ -73,6 +73,7 @@ force ace_repair_locationsBoostTraining = true;
 force ace_fastroping_autoAddFRIES = true;
 force ace_flags_enableCarrying = true;
 force ace_flags_enablePlacing = true;
+force ace_marker_flags_placeAnywhere = true;
 
 // ACRE2
 force force acre_sys_core_ts3ChannelName = "acre";
