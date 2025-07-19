@@ -66,6 +66,7 @@ force ace_overheating_enabled = false;
 force ace_finger_enabled = true;
 
 // ACE Repair
+force ace_repair_fullRepairLocation = 3;
 force ace_repair_locationsBoostTraining = true;
 
 // ACRE2
