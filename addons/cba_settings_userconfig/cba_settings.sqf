@@ -49,6 +49,9 @@ force ace_medical_statemachine_fatalInjuriesPlayer = 2;
 // ACE Medical Interface
 force ace_medical_gui_maxDistance = 10;
 
+// ACE Medical Treatment
+force ace_medical_treatment_treatmentTimeCoeffZeus = 0;
+
 // ACRE2
 force force acre_sys_core_ts3ChannelName = "acre";
 force force acre_sys_core_ts3ChannelPassword = "fuckyou";
