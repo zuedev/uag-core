@@ -30,7 +30,6 @@ force ace_gforces_enabledFor = 2;
 force ace_goggles_showInThirdPerson = true;
 
 // ACE Hearing
-force ace_hearing_disableEarRinging = true;
 force ace_hearing_enableCombatDeafness = false;
 
 // ACE Interaction
