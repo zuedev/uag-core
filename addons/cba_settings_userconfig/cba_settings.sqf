@@ -59,6 +59,9 @@ force ace_medical_treatment_locationsBoostTraining = true;
 force ace_medical_treatment_locationSurgicalKit = 0;
 force ace_medical_treatment_treatmentTimeCoeffZeus = 0;
 
+// ACE Overheating
+force ace_overheating_enabled = false;
+
 // ACRE2
 force force acre_sys_core_ts3ChannelName = "acre";
 force force acre_sys_core_ts3ChannelPassword = "fuckyou";
