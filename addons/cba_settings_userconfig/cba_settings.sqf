@@ -89,3 +89,6 @@ force force acre_sys_core_ts3ChannelPassword = "fuckyou";
 force WBK_BurnEm_Napalm_Trees = true;
 force WBK_BurnEm_TankExplosion = 10;
 force WBK_BurnEm_Trees = true;
+
+// Enhanced Movement Rework
+force emr_main_allowClimbOnStandingUnits = true;
