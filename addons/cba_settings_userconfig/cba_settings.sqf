@@ -29,6 +29,9 @@ force ace_gforces_enabledFor = 2;
 // ACE Goggles
 force ace_goggles_showInThirdPerson = true;
 
+// ACE Hearing
+force ace_hearing_enableCombatDeafness = false;
+
 // ACRE2
 force force acre_sys_core_ts3ChannelName = "acre";
 force force acre_sys_core_ts3ChannelPassword = "fuckyou";
