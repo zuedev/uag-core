@@ -71,6 +71,8 @@ force ace_repair_locationsBoostTraining = true;
 
 // ACE Uncategorized
 force ace_fastroping_autoAddFRIES = true;
+force ace_flags_enableCarrying = true;
+force ace_flags_enablePlacing = true;
 
 // ACRE2
 force force acre_sys_core_ts3ChannelName = "acre";
