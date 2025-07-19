@@ -40,6 +40,7 @@ force ace_medical_AIDamageThreshold = 0.2;
 force ace_medical_bleedingCoefficient = 0.25;
 force ace_medical_fatalDamageSource = 0;
 force ace_medical_ivFlowRate = 3;
+force ace_medical_playerDamageThreshold = 3.5;
 
 // ACRE2
 force force acre_sys_core_ts3ChannelName = "acre";
