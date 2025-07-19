@@ -117,3 +117,18 @@ force qte_ace_rearm_enable = true;
 
 // QTE ACE - Repair
 force qte_ace_repair_enable = true;
+
+// Zeus Enhanced
+force zen_building_markers_enabled = true;
+force zen_common_darkMode = true;
+force zen_common_disableGearAnim = true;
+force zen_compat_ace_hideModules = false;
+force zen_editor_addGroupIcons = true;
+force zen_editor_addModIcons = true;
+force zen_editor_disableLiveSearch = true;
+force zen_placement_enabled = true;
+force zen_visibility_enabled = 1;
+force zen_vision_enableBlackHot = true;
+force zen_vision_enableNVG = true;
+force zen_vision_enableRedGreenThermal = true;
+force zen_vision_enableWhiteHot = true;
