@@ -36,6 +36,7 @@ force ace_hearing_enableCombatDeafness = false;
 force ace_interaction_disableNegativeRating = true;
 
 // ACE Medical
+force ace_medical_AIDamageThreshold = 0.2;
 force ace_medical_bleedingCoefficient = 0.25;
 force ace_medical_fatalDamageSource = 0;
 force ace_medical_ivFlowRate = 3;
