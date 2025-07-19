@@ -26,6 +26,9 @@ force ace_frag_spallEnabled = true;
 // ACE G-Forces
 force ace_gforces_enabledFor = 2;
 
+// ACE Goggles
+force ace_goggles_showInThirdPerson = true;
+
 // ACRE2
 force force acre_sys_core_ts3ChannelName = "acre";
 force force acre_sys_core_ts3ChannelPassword = "fuckyou";
