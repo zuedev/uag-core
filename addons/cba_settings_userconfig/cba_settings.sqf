@@ -38,6 +38,7 @@ force ace_interaction_disableNegativeRating = true;
 
 // ACE Medical
 force ace_medical_bleedingCoefficient = 0.25;
+force ace_medical_ivFlowRate = 3;
 
 // ACRE2
 force force acre_sys_core_ts3ChannelName = "acre";
