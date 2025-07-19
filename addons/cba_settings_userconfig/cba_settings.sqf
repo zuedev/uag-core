@@ -50,6 +50,7 @@ force ace_medical_statemachine_fatalInjuriesPlayer = 2;
 force ace_medical_gui_maxDistance = 10;
 
 // ACE Medical Treatment
+force ace_medical_treatment_locationsBoostTraining = true;
 force ace_medical_treatment_treatmentTimeCoeffZeus = 0;
 
 // ACRE2
